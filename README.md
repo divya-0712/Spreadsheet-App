@@ -1,4 +1,5 @@
 Spreadsheet Application
+
 A Next.js application that mimics the functionality of a spreadsheet with advanced features, styled with Tailwind CSS, and state management handled by Zustand.
 
 Features
